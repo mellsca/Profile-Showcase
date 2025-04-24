@@ -1,0 +1,31 @@
+.img {
+  border-radius: 100px;
+  width: 200px;
+  background-color: palevioletred;
+}
+  
+.h2 {
+  font-size: 18px;
+  text-align: center;
+}
+  
+.body {
+  background: linear-gradient(pink, lavenderblush);
+  font-family: 'Trebuchet MS';
+  color: lightcoral;
+  text-align: center;
+}
+  
+.p {
+  padding-bottom: 15px;
+}
+
+.link {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  color: lightcoral;
+}
